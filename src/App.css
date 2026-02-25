@@ -4,10 +4,19 @@
 }
 
 .colour-border{
-  border: 3px solid green;
+  border: 3px solid rgb(128, 41, 0);
   padding: 10px;
 }
 
 .header{
+  padding: 10px;
+}
+
+footer {
+  font-size: small;
+  color: darkolivegreen;
+}
+
+body {
   padding: 10px;
 }
